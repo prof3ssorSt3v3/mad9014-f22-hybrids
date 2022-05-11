@@ -13,8 +13,8 @@ The suggested order for the exercises is:
 1. variables-datatypes.md
 2. control-flow.md
 3. functions.md
-4. strings.md
-5. math-numbers.md
+4. math-numbers.md
+5. strings.md
 6. arrays.md
 7. objects.md
 
