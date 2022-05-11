@@ -1,6 +1,6 @@
 # String Exercises
 
-Create a single JavaScript file to complete all of these exercises. Add comments above each section to indicate the question number. The [MDN website](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String) should be your first reference for doing these exercises.
+Create a single JavaScript file to complete all of these exercises. Add comments above each section to indicate the question number. The [MDN website](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String) should be your first reference for doing these exercises. You can use other resources too, like Steve's YouTube channel.
 
 Eg:
 
