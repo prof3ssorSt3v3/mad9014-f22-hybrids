@@ -1,6 +1,6 @@
 # Function Exercises
 
-Create a single JavaScript file to complete all six of these exercises. Add comments above each section to indicate the question number.
+Create a single JavaScript file to complete all six of these exercises. Add comments above each section to indicate the question number. The (MDN website)(https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions) is the first resource you should use. You can also use the course website or Steve's YouTube channel too.
 
 Eg:
 
