@@ -5,11 +5,11 @@ Create a single JavaScript file to complete all three of these exercises. Add co
 Eg:
 
 ```js
-//question 1
+//exercise 1
 
-//question 2
+//exercise 2
 
-//question 3
+//exercise 3
 ```
 
 ## Exercises

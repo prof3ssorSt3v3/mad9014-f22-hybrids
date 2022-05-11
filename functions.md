@@ -5,9 +5,9 @@ Create a single JavaScript file to complete all six of these exercises. Add comm
 Eg:
 
 ```js
-//question 1
+//exercise 1
 
-//question 2
+//exercise 2
 ```
 
 ## Exercises

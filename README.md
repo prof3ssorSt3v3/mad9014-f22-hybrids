@@ -15,7 +15,8 @@ The suggested order for the exercises is:
 3. functions.md
 4. math-numbers.md
 5. strings.md
-6. arrays.md
-7. objects.md
+6. date-time.md
+7. arrays.md
+8. objects.md
 
 **Remember**: The only way to learn to program is by actually writing code.
