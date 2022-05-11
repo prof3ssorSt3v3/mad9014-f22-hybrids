@@ -1,6 +1,6 @@
 # Array Exercises
 
-Create a single JavaScript file to complete all of these exercises. Add comments above each section to indicate the question number. The [MDN website](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String) should be your first reference for doing these exercises.
+Create a single JavaScript file to complete all of these exercises. Add comments above each section to indicate the question number. The [MDN website](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array) should be your first reference for doing these exercises.
 
 Eg:
 
@@ -14,7 +14,10 @@ Eg:
 
 1. Write a function that accepts an Array of Strings as an argument. The function will create a new Array with every String in the original Array converted to uppercase and returns the new Array.
 2. Write a function that accepts an Array of numbers and sorts them numerically in ascending order.
-3. Write a function that accepts
+3. Write a function that accepts an Array of Date objects and sorts them according to their month value.
+4. Write a function that accepts an Array and will move the first value in the Array to the last position in the Array. The function returns the updated Array.
+5. Write a function that accepts an Array of Strings. The function will use the `filter()` method and the `sort()` method to remove any String that is longer than 5 characters and then sorts the Strings alphabetically. The function returns the new filtered and sorted array.
+6. Write a function that accepts an Array of Strings. The function will use the `map()` method to create a new array that holds the length of each string. Return the new array with the lengths.
 
 ## Submission
 
