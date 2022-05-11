@@ -1,4 +1,4 @@
-# Variables and DataTypes
+# Variables and DataType Exercises
 
 Create a single JavaScript file to complete all three of these exercises. Add comments above each section to indicate the question number.
 
