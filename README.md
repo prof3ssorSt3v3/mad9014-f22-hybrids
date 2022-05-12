@@ -6,7 +6,9 @@ Each of the other markdown files in this folder represent another section of the
 
 Each file has a set of five exercises for a different topic.
 
-You can submit them, in any order, at any time up to the end of week 12. I highly recommend that you submit as many of them as soon as you can.
+You can submit them, in any order. I highly recommend that you submit as many of them as soon as you can.
+
+> You must submit at least 4 of them before the Reading Week (the end of Week 7).
 
 The suggested order for the exercises is:
 
