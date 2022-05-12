@@ -17,14 +17,14 @@ Eg:
 3. Write a function expression that accepts three arguments but has default values for two of them.
 4. Write a function expression that returns another function.
 5. Write an IIFE (Immediately Invoked Function Expression) that returns your name and assigns the return value to a variable called `name`.
-6. Rewrite these two functions as an arrow function.
+6. Rewrite these two functions as arrow functions.
 
 ```js
 let f1 = function () {
   console.log('This is function one');
 };
-let f2 = function () {
-  console.log('This is function two');
+let f2 = function (fname, lname) {
+  console.log('My name is ' + fname + ' ' + lname);
 };
 ```
 
