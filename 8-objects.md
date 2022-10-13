@@ -46,7 +46,7 @@ const APP = {
   second: (){
     console.log('second');
   },
-  third: (){
+  third (){
     console.log('third');
   }
 }
