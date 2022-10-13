@@ -51,8 +51,8 @@ if (name == 'Tony') {
 ```
 
 3. Write a multiline comment with the list of all the possible `falsey` values in JavaScript.
-4. Write a `for loop` that will `console.log` each of these values `1, 4, 7, 10, 13, 16, 19`. It should not output any numbers other than the ones listed. Do not use an Array to accomplish this. The output values should be only the value of your counter variable.
-5. Write a `for loop` that will `console.log` only the numbers from 25 to 5 in descending order. Eg: `25, 24, 23, 22, 21,...7, 6, 5`. Do not use an Array to accomplish this. The output values should be only the value of your counter variable.
+4. Write a `for loop` that will `console.log` each of these values `1, 4, 7, 10, 13, 16, 19`. It should not output any numbers other than the ones listed. Do not use an `Array` to accomplish this. The output values should be only the value of your counter variable.
+5. Write a `for loop` that will `console.log` only the numbers from 25 to 5 in descending order. Eg: `25, 24, 23, 22, 21,...7, 6, 5`. Do not use an `Array` to accomplish this. The output values should be only the value of your counter variable.
 
 ## Submission
 
