@@ -17,7 +17,7 @@ Eg:
 3. Write a function that accepts an Array of Date objects and sorts them according to their month value.
 4. Write a function that accepts an Array and will move the first value in the Array to the last position in the Array. The function returns the updated Array.
 5. Write a function that accepts an Array of Strings. The function will use the `filter()` method and the `sort()` method to remove any String that is longer than 5 characters and then sorts the Strings alphabetically. The function returns the new filtered and sorted array.
-6. Write a function that accepts an Array of Strings. The function will use the `map()` method to create a new array that holds the length of each string. Return the new array with the lengths.
+6. Write a function that accepts an Array of Strings. The function will use the `map()` method to create a new array which holds the length of each string. Return the new array with the lengths.
 
 ## Submission
 
