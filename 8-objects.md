@@ -40,13 +40,13 @@ console.log(obj.e.age);
 
 ```js
 const APP = {
-  first: () => {
+  first: function (){
     console.log('first');
   },
   second: () => {
     console.log('second');
   },
-  third: () => {
+  third(){
     console.log('third');
   }
 }
