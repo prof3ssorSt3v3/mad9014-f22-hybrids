@@ -12,7 +12,7 @@ Eg:
 
 ## Exercises
 
-1. Write a function that accepts an Array of Strings as an argument. The function will create a new Array with every String in the original Array converted to uppercase and returns the new Array.
+1. Write a function that accepts an Array of Strings as an argument. The function will create a new Array with all the Strings from the original Array converted to uppercase. Then the function returns the new Array.
 2. Write a function that accepts an Array of numbers and sorts them numerically in ascending order.
 3. Write a function that accepts an Array of Date objects and sorts them according to their month value.
 4. Write a function that accepts an Array and will move the first value in the Array to the last position in the Array. The function returns the updated Array.
